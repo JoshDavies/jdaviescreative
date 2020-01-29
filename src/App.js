@@ -6,10 +6,18 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>
-          J Davies Creative
-        </h1>
+        <img src="https://github.com/JoshDavies/jdaviescreative/blob/master/public/favicon.png?raw=true" className="Fav"></img>
+        <a href="#" className="Title">J Davies Creative</a>
+        <nav className="Nav">
+          <a href="#">Latest Work</a>
+          <a href="#">Buy</a>
+          <a href="#">About</a>
+          <a href="#">Contact</a>
+        </nav>
       </header>
+      <body className="App-body">
+
+      </body>
     </div>
   );
 }
