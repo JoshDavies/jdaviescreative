@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src="https://github.com/JoshDavies/jdaviescreative/blob/master/public/favicon.png?raw=true" className="Fav"></img>
-        <a href="#" className="Title">J Davies Creative</a>
+        <a href="#" className="Title">J Davies</a>
         <nav className="Nav">
           <a href="#">Latest Work</a>
           <a href="#">Buy</a>

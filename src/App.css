@@ -13,7 +13,10 @@
   justify-content: center;
   color: #f6fcfc;
   font-size: 1.2em;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  letter-spacing: 0.2em;
+  font-family: proxima-nova, sans-serif;
+  font-style: thin;
+  font-weight: 100;
 }
 
 .Fav {
@@ -24,12 +27,12 @@
 
 .Title {
   text-decoration: none;
-  letter-spacing: 0.2em;
-  color: #f6fcfc;
+  letter-spacing: 0.4em;
+  padding-right: 3em;
 }
 
 .Nav {
-  border-bottom: 1px solid hsla(0, 0%, 100%, 0.2);
+  border-bottom: 0.1em solid hsla(0, 0%, 100%, 0.2);
 }
 
 a {
@@ -47,4 +50,8 @@ a:hover {
 .App-body {
   background: #f6fcfc;
   min-height: 100vh;
+  background-image: url('https://github.com/JoshDavies/jdaviescreative/blob/master/public/background.jpg?raw=true');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
