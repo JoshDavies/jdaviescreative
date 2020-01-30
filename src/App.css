@@ -1,4 +1,10 @@
 .App {
+  color: #f6fcfc;
+  font-size: 1.2em;
+  letter-spacing: 0.2em;
+  font-family: proxima-nova, sans-serif;
+  font-style: thin;
+  font-weight: 100;
 }
 
 .App-header {
@@ -11,12 +17,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #f6fcfc;
-  font-size: 1.2em;
-  letter-spacing: 0.2em;
-  font-family: proxima-nova, sans-serif;
-  font-style: thin;
-  font-weight: 100;
 }
 
 .Fav {
@@ -45,6 +45,15 @@ a {
 
 a:hover {
     color: red;
+}
+
+.fa {
+}
+
+.fa:hover {
+}
+
+.fa-instagram {
 }
 
 .App-body {

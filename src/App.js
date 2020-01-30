@@ -13,7 +13,8 @@ function App() {
           <a href="#">Buy</a>
           <a href="#">About</a>
           <a href="#">Contact</a>
-        </nav>
+          </nav>
+          <a href="http://instagram.com/jdaviesartwork" className="fa fa-instagram" target="_blank"></a>
       </header>
       <body className="App-body">
 
