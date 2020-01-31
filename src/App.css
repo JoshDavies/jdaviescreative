@@ -11,6 +11,7 @@
   background-color: #020606;
   min-height: 6vh;
   position: fixed;
+  z-index: 1;
   width: 100%;
   bottom: 0;
   left: 0;
@@ -63,4 +64,29 @@ a:hover {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  padding: 6em;
+}
+
+.page {
+  padding-bottom: 4em;
+  border-radius: 1em;
+  background: ;
+  color: black;
+  text-align: center;
+}
+
+.picture-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.picture-card {
+  flex-basis: 20em;
+  margin: 2em;
+}
+
+.picture-card > img {
+    width: 100%;
+    height: auto;
+    border-radius: 0.2em;
 }

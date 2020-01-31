@@ -3,13 +3,13 @@ import PictureCard from './PictureCard'
 
 function LatestWork() {
    return (
-    <div className="latest-work">
+    <div className="page">
       <h1 id="latest">Latest Work</h1>
-        <PictureCard
-          picture={[imgUrl: ""]}
-        />
-
-
+        <div className="picture-container">
+          <PictureCard
+            picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/Nation.jpg?raw=true"}}
+          />
+        </div>
     </div>
    );
  }
