@@ -59,7 +59,7 @@ a:hover {
 .App-body {
   background: #f6fcfc;
   min-height: 100vh;
-  background-image: url('https://github.com/JoshDavies/jdaviescreative/blob/master/public/background.jpg?raw=true');
+  background-image: url('https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/background.jpg?raw=true');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
