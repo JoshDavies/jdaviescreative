@@ -1,14 +1,16 @@
 import React from "react"
 import LatestWork from './LatestWork'
+import Buy from './Buy'
+import About from './About'
+import Contact from './Contact'
 
 function MainBody() {
    return (
     <body className="App-body">
       <LatestWork />
-
-      <h1 id="buy">Buy</h1>
-      <h1 id="about">About</h1>
-      <h1 id="contact">Contact</h1>
+      <Buy />
+      <About />
+      <Contact />
     </body>
    );
  }
