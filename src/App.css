@@ -70,7 +70,7 @@ a:hover {
 .page {
   padding: 1.2em;
   border-radius: 0.2em;
-  background-color: rgba(0,0,0,.2);
+  background-color: rgba(0,0,0,.4);
   color: black;
   text-align: center;
   z-index: 3;
@@ -78,18 +78,18 @@ a:hover {
 }
 
 .picture-container {
-    z-index: 2;
+    justify-content: center;
     display: flex;
     flex-wrap: wrap;
 }
 
 .picture-card {
-  flex-basis: 20em;
+  flex-basis: 2em;
   margin: 2em;
 }
 
 .picture-card > img {
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 28em;
     border-radius: 0.2em;
 }

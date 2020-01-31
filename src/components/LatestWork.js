@@ -9,6 +9,12 @@ function LatestWork() {
           <PictureCard
             picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/Nation.jpg?raw=true"}}
           />
+          <PictureCard
+            picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/Structure.jpg?raw=true"}}
+          />
+          <PictureCard
+            picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/kingfisher.jpg?raw=true"}}
+          />
         </div>
     </div>
    );
