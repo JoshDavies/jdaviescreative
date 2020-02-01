@@ -49,6 +49,9 @@ a:hover {
 }
 
 .fa {
+  padding-top: 0em;
+  padding-bottom: 0em;
+  font-size: 1.4em;
 }
 
 .fa:hover {
@@ -87,6 +90,10 @@ a:hover {
   font-weight: 100;
 }
 
+.page p {
+  margin: 0em 1.2em;
+}
+
 .picture-container {
     justify-content: center;
     display: flex;
@@ -106,12 +113,12 @@ a:hover {
 
 .button{
   border: 0.1em solid #f6fcfc;
-  padding: 15px 32px;
+  padding: 1em 3em;
   justify-content: center;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 1.2em;
-  margin: 1em;
+  margin: 1.2em;
   cursor: pointer;
 }
