@@ -1,9 +1,13 @@
 import React from "react"
+import StoryImg from './StoryImg'
 
 function About() {
    return (
     <div className="page" id="about">
       <h1>About</h1>
+      <StoryImg
+        picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/profile.jpeg?raw=true"}}
+      />
       <h3>Artist Profile </h3>
       <p>
         I am a London based graduate of Arts University Bournemouth.

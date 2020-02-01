@@ -111,6 +111,12 @@ a:hover {
     border-radius: 0.2em;
 }
 
+.story-img > img {
+  height: auto;
+  width: 25%;
+  border-radius: 50%;
+}
+
 .button{
   border: 0.1em solid #f6fcfc;
   padding: 1em 3em;

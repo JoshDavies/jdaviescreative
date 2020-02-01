@@ -1,9 +1,13 @@
 import React from "react"
+import StoryImg from './StoryImg'
 
 function Buy() {
    return (
     <div className="page" id="buy">
       <h1>Buy</h1>
+      <StoryImg
+        picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/tree_angle.jpg?raw=true"}}
+      />
       <h3>Interested in Buying or Commissioning Original Artwork & Prints?</h3>
       <p>
       I am Represented by DegreeArt.com <br />

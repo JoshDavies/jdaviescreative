@@ -1,9 +1,13 @@
 import React from "react"
+import StoryImg from './StoryImg'
 
 function Contact() {
    return (
     <div className="page" id="contact">
       <h1>Contact</h1>
+      <StoryImg
+        picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/paint_brush.jpg?raw=true"}}
+      />
       <h3>Get in Touch</h3>
       <p>Please feel free to email me about my work: <br />
       jdaviescreative@gmail.com</p>
