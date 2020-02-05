@@ -3,8 +3,7 @@ import React from "react"
 function NavBar() {
    return (
      <header className="App-header">
-       <img src="https://github.com/JoshDavies/jdaviescreative/blob/master/public/favicon.png?raw=true" className="Fav"></img>
-       <a href="#" className="Title">J Davies</a>
+       <a href="#" className="Title">J. Davies</a>
        <nav className="Nav">
          <a href="#latest">Latest Work</a>
          <a href="#buy">Buy</a>
