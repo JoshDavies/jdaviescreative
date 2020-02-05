@@ -41,16 +41,16 @@ a {
   position: relative;
   padding: 1.2em;
   cursor: pointer;
+  opacity: 0.8;
 }
 
-
 a:hover {
-  color: red;
+  opacity: 1;
 }
 
 .fa {
-  padding-top: 0em;
-  padding-bottom: 0em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
   font-size: 1.4em;
 }
 
@@ -120,6 +120,7 @@ a:hover {
 
 .button{
   border: 0.1em solid #f6fcfc;
+  border-radius: 0.2em;
   padding: 1em 3em;
   justify-content: center;
   text-align: center;
