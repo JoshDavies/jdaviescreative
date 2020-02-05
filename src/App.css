@@ -80,10 +80,12 @@ a:hover {
 }
 
 .page h1 {
-  padding: 1em;
+  padding: 1.2em;
   text-align: center;
-  font-size: 4em;
+  font-size: 3.8em;
   font-weight: 100;
+  letter-spacing: 0.4em;
+  font-style: italic;
 }
 
 .page h3 {
