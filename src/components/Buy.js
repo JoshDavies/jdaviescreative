@@ -26,6 +26,13 @@ function Buy() {
             <a href="https://www.degreeart.com/artists/josh-davies" target="_blank" className="button">J Davies @ DegreeArt.com</a>
           </div>
         </div>
+
+        <div className="arrow-container">
+          <a className="arrow" href="#about">
+            <i className="fa fa-angle-down"></i>
+          </a>
+        </div>
+
       </div>
     </div>
    );

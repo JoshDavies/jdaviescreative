@@ -26,6 +26,13 @@ function LatestWork() {
             picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/Montpellier.jpg?raw=true"}}
           />
         </div>
+
+        <div className="arrow-container">
+          <a className="arrow" href="#buy">
+            <i className="fa fa-angle-down"></i>
+          </a>
+        </div>
+
       </div>
     </div>
    );

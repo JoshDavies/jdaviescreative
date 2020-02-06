@@ -31,6 +31,13 @@ function Contact() {
             <a href="http://instagram.com/jdaviesartwork" target="_blank" className="button">@jdaviesartwork</a>
           </div>
         </div>
+
+        <div className="arrow-container">
+          <a className="arrow" href="#latest">
+            <i className="fa fa-angle-up"></i>
+          </a>
+        </div>
+
       </div>
     </div>
    );

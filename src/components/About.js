@@ -33,6 +33,13 @@ function About() {
             </p>
           </div>
         </div>
+
+        <div className="arrow-container">
+          <a className="arrow" href="#contact">
+            <i className="fa fa-angle-down"></i>
+          </a>
+        </div>
+
       </div>
     </div>
    );
