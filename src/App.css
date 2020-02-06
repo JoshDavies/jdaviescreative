@@ -154,6 +154,10 @@ h2 {
   cursor: pointer;
 }
 
+.button:hover {
+  background-color: rgba(0,0,0,.4);
+}
+
 .column-left {
   padding-top: 2em;
   float: left;
@@ -190,7 +194,7 @@ h2 {
 }
 
 .banner0 {
-  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) )
+  background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) )
 }
 
 .banner1 {
@@ -212,4 +216,34 @@ h2 {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+/* Zoom in and saturate */
+img {
+   -webkit-transition: all 200ms ease-in-out;
+     -moz-transition: all 200ms ease-in-out;
+      -ms-transition: all 200ms ease-in-out;
+       -o-transition: all 200ms ease-in-out;
+          transition: all 200ms ease-in-out;
+  transition: all 200ms ease-in-out;
+  filter: grayscale(.20);
+    -webkit-filter: grayscale(20%);
+  -moz-filter: grayscale(.20);
+  -o-filter: grayscale(.20);
+  -ms-filter: grayscale(.20);
+}
+
+img:hover {
+  transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  -moz-transform:    scale(1.2);
+  -ms-transform:     scale(1.2);
+  -o-transform:      scale(1.2);
+  transform:         scale(1.2);
+
+  filter: grayscale(0);
+  -webkit-filter: grayscale(0%);
+  -moz-filter: grayscale(0);
+  -o-filter: grayscale(0);
+  -ms-filter: grayscale(0);
 }
