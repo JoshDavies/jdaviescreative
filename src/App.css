@@ -28,7 +28,7 @@
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   font-style: italic;
-  font-size: 2.8em;
+  font-size: 2.4em;
 }
 
 .Nav {
@@ -68,24 +68,40 @@ a:hover {
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
-  padding: 6em;
+  padding: 0;
 }
 
 .page {
-  padding: 4em;
-  border-radius: 0.2em;
+  padding-left: 10em;
+  padding-right: 10em;
+  padding-bottom: 8em;
+  padding-top: 1.5em;
   background-color: rgba(0,0,0,.8);
-  margin: 1.2em;
+  margin: 0;
   line-height: 1.5em;
+
 }
 
-.page h1 {
-  padding: 1.2em;
+h1 {
+  margin: 0;
+  padding-top: 2.5em;
+  padding-bottom: 0.2em;
   text-align: center;
   font-size: 3.8em;
   font-weight: 100;
   letter-spacing: 0.4em;
   font-style: italic;
+}
+
+h2 {
+  margin: 0;
+  padding-top: 0.5em;
+  padding-bottom: 10em;
+  text-align: center;
+  font-size: 0.6em;
+  font-weight: 100;
+  letter-spacing: 0.4em;
+  opacity: 0.8;
 }
 
 .page h3 {
@@ -95,6 +111,11 @@ a:hover {
 
 .page p {
   margin: 0em 1.2em;
+}
+
+.quote {
+  font-style: italic;
+  padding-left: 1.2em;
 }
 
 .picture-container {
@@ -110,8 +131,8 @@ a:hover {
 
 .picture-card > img {
     width: auto;
-    height: 28em;
-    border-radius: 0.2em;
+    height: 22em;
+    border-radius: 0.4em;
 }
 
 .story-img > img {
@@ -134,7 +155,7 @@ a:hover {
 }
 
 .column-left {
-  padding-top: 4em;
+  padding-top: 2em;
   float: left;
   width: 35%;
 }
@@ -166,4 +187,29 @@ a:hover {
   width: 100%;
   background-color: rgba(0,0,0,.8);
   padding-bottom: 0.2em;
+}
+
+.banner0 {
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) )
+}
+
+.banner1 {
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/houseofthenation.jpg?raw=true');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner2 {
+  background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/sunlight.jpg?raw=true');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner3 {
+  background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/red_close_up.jpg?raw=true');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }

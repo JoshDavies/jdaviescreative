@@ -3,8 +3,12 @@ import PictureCard from './PictureCard'
 
 function LatestWork() {
    return (
-    <div className="page" id="latest">
-      <h1>Latest Work</h1>
+    <div id="latest">
+      <div className="banner0">
+        <h1>Latest Work</h1>
+        <h2>HAND PAINTED WATERCOLOUR & INK</h2>
+      </div>
+      <div className="page">
         <div className="picture-container">
           <PictureCard
             picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/Nation.jpg?raw=true"}}
@@ -22,6 +26,7 @@ function LatestWork() {
             picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/Montpellier.jpg?raw=true"}}
           />
         </div>
+      </div>
     </div>
    );
  }
