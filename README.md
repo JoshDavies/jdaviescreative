@@ -75,3 +75,7 @@ gallery takes a while to load (images jump about as they are loaded & adjust to 
 ensure fast load times
 
 Using React.js helped break down the app into simpler components and multiple files.
+
+### Animation package
+fade-in animation from:
+https://www.npmjs.com/package/react-animate-on-scroll

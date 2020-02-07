@@ -1,12 +1,15 @@
 import React from "react"
 import StoryImg from './StoryImg'
+import ScrollAnimation from 'react-animate-on-scroll';
 
 function Contact() {
    return (
     <div id="contact">
-      <div className="banner3">
+      <div className="banner3" >
+      <ScrollAnimation animateIn="fadeIn">
         <h1>Contact</h1>
         <h2>JDAVIESCREATIVE@GMAIL.COM</h2>
+      </ScrollAnimation>
       </div>
       <div className="page">
         <div className="row">
@@ -16,6 +19,7 @@ function Contact() {
             />
           </div>
           <div className="column-right">
+          <ScrollAnimation animateIn="fadeIn">
             <h3>Get in Touch</h3>
             <p>Please feel free to email me about my work: <br />
             jdaviescreative@gmail.com</p>
@@ -29,6 +33,7 @@ function Contact() {
               For more photographs and close ups:
             </p>
             <a href="http://instagram.com/jdaviesartwork" target="_blank" className="button"><span>@jdaviesartwork</span></a>
+          </ScrollAnimation>
           </div>
         </div>
 

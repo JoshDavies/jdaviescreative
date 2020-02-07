@@ -5,6 +5,7 @@ import About from './About'
 import Contact from './Contact'
 import CoverPage from './CoverPage'
 
+
 function MainBody() {
    return (
     <body>

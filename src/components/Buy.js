@@ -1,12 +1,15 @@
 import React from "react"
 import StoryImg from './StoryImg'
+import ScrollAnimation from 'react-animate-on-scroll';
 
 function Buy() {
   return (
     <div id="buy">
       <div className="banner2">
+      <ScrollAnimation animateIn="fadeIn">
         <h1>Buy</h1>
         <h2>ARTWORK</h2>
+      </ScrollAnimation>
       </div>
       <div className="page">
         <div className="row">
@@ -16,6 +19,7 @@ function Buy() {
             />
           </div>
           <div className="column-right">
+          <ScrollAnimation animateIn="fadeIn">
             <h3>Buy or Commission Original Art & Prints</h3>
             <p>
             I am Represented by DegreeArt.com <br />
@@ -24,6 +28,7 @@ function Buy() {
             UK student & graduate art sales, hand picking & promoting the most promising talent.
             </p>
             <a href="https://www.degreeart.com/artists/josh-davies" target="_blank" className="button"><span>J Davies @ DegreeArt.com</span></a>
+          </ScrollAnimation>
           </div>
         </div>
 

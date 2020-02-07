@@ -1,12 +1,15 @@
 import React from "react"
 import StoryImg from './StoryImg'
+import ScrollAnimation from 'react-animate-on-scroll';
 
 function About() {
    return (
     <div id="about">
       <div className="banner1">
+      <ScrollAnimation animateIn="fadeIn">
         <h1>About</h1>
         <h2>J. DAVIES</h2>
+      </ScrollAnimation>
       </div>
       <div className="page">
         <div className="row">
@@ -16,6 +19,7 @@ function About() {
             />
           </div>
           <div className="column-right">
+          <ScrollAnimation animateIn="fadeIn">
             <h3>Artist Profile </h3>
             <p>
               I am a London based graduate of Arts University Bournemouth.
@@ -31,6 +35,7 @@ function About() {
               'The most exciting attractions are between two opposites that never meet.' <br />
               Andy Warhol
             </p>
+          </ScrollAnimation>
           </div>
         </div>
 

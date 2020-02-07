@@ -1,12 +1,15 @@
 import React from "react"
 import PictureCard from './PictureCard'
+import ScrollAnimation from 'react-animate-on-scroll';
 
 function LatestWork() {
    return (
     <div id="latest">
       <div className="banner0">
+      <ScrollAnimation animateIn="fadeIn">
         <h1>Latest Work</h1>
         <h2>HAND PAINTED WATERCOLOUR & INK</h2>
+      </ScrollAnimation>
       </div>
       <div className="page">
         <div className="picture-container">
