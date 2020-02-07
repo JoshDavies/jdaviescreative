@@ -233,6 +233,8 @@ h2 {
 
 /* Zoom in and saturate */
 img {
+  box-shadow:  8px 8px 8px #161615,
+               -8px -8px 8px #5b5b5b;
   -webkit-transition: all 200ms ease-in-out;
   -moz-transition: all 200ms ease-in-out;
   -ms-transition: all 200ms ease-in-out;
@@ -247,6 +249,7 @@ img {
 }
 
 img:hover {
+  box-shadow:  0px 0px 0px black;
   -webkit-transform: scale(1.2);
   -moz-transform:    scale(1.2);
   -ms-transform:     scale(1.2);

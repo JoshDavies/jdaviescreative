@@ -49,8 +49,10 @@ for small screens.  Bootstrap would help with responsive layout.
 
 - SEO Optimisation -  title tag, meta description, and URL  
 - host with a professional domain name / URL.  
+
 ✅ smooth scrolling  
-✅ add navigation arrows.
+✅ add navigation arrows.  
+✅ 3d box shadow effect on images.  
 
 - include a new section that loads articles I've written about my work process?
 
