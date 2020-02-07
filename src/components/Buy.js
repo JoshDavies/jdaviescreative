@@ -23,7 +23,7 @@ function Buy() {
             Over the past 16 years, DegreeArt.com has established itself as the market leader in
             UK student & graduate art sales, hand picking & promoting the most promising talent.
             </p>
-            <a href="https://www.degreeart.com/artists/josh-davies" target="_blank" className="button">J Davies @ DegreeArt.com</a>
+            <a href="https://www.degreeart.com/artists/josh-davies" target="_blank" className="button"><span>J Davies @ DegreeArt.com</span></a>
           </div>
         </div>
 

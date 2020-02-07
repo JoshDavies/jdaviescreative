@@ -43,36 +43,35 @@ for small screens.  Bootstrap would help with responsive layout.
 - click image to open lightbox (full-screen)
 - upload more artwork
 
-- host with a professional domain name / URL.
-
 - very static - add more transition animations
 
 - create a button to switch between light and dark mode theme?
 
-- SEO consideration
-
+- SEO Optimisation -  title tag, meta description, and URL  
+- host with a professional domain name / URL.  
 ✅ smooth scrolling  
 ✅ add navigation arrows.
 
-- include a new section that loads articles I've written about my work process.
+- include a new section that loads articles I've written about my work process?
 
-### Why use a single page webpage.
-Brochure / Portfolio sites are suited to this web Structure as it is small enough in scale to achievably showcase all the information visitors will want.  
-Able to create a more engaging website using a single page.     
+### Why use a single-page website
+Single-page Websites are not suited to every situation but for a Portfolio; this web structure offers an intuitive experience.
+Modern users prefer scrolling to clicking as it is a smaller decision and seamless storytelling.
+
+attention to content / increased user engagement.
+Able to create a more engaging website using a single page.
+Long scrolling enables creative elements like parallax scrolling and scroll-activated animations.  
+
+simple navigation  immersive
+present information in a logical order.  - controls the users journey.  
+craft a narrative without any distractions
+
 formatted into clearly defined sections with big header elements.  
-capture visitors’ attention.  
-Custom scrolling / transition effects to tell story more engagingly.  
-
-simple navigation - controls the users journey / experience.   
-present information in a logical order.  
-easier for visitors to find what they’re looking for.   
-
-Landing pages. This type of website is all about converting users. Limiting yourself to one page enables you to craft a narrative without any distractions,  
-initial load will be slower but then
 navigating to another sections is very responsive as it has already loaded.  
 feels like a native mobile app. once loaded it is connectivity independent.
 landing page loads faster  
-gallery takes a while to load in (refresh will looking at it and you will notice the images jump about as they adjust to the galleries constraints).  
-less information to sort through, chances are visitors will pay more attention to content. - higher engagement
+gallery takes a while to load (images jump about as they are loaded & adjust to the galleries constraints).  
+
+ensure fast load times
 
 Using React.js helped break down the app into simpler components and multiple files.

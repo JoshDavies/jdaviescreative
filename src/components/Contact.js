@@ -28,7 +28,7 @@ function Contact() {
             <p>
               For more photographs and close ups:
             </p>
-            <a href="http://instagram.com/jdaviesartwork" target="_blank" className="button">@jdaviesartwork</a>
+            <a href="http://instagram.com/jdaviesartwork" target="_blank" className="button"><span>@jdaviesartwork</span></a>
           </div>
         </div>
 
