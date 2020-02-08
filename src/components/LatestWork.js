@@ -20,13 +20,25 @@ function LatestWork() {
             picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/Structure.jpg?raw=true"}}
           />
           <PictureCard
-            picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/kingfisher.jpg?raw=true"}}
-          />
-          <PictureCard
-            picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/winter+stag.jpg?raw=true"}}
-          />
-          <PictureCard
             picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/Montpellier.jpg?raw=true"}}
+          />
+          <PictureCard
+            picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/Tree+Study+IV.jpg?raw=true"}}
+          />
+          <PictureCard
+            picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/Spring+Wood.jpg?raw=true"}}
+          />
+          <PictureCard
+            picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/Tree+House.jpg?raw=true"}}
+          />
+          <PictureCard
+            picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/City+Tree.jpg?raw=true"}}
+          />
+          <PictureCard
+            picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/jackalope.jpg?raw=true"}}
+          />
+          <PictureCard
+            picture={{imgUrl: "https://github.com/JoshDavies/jdaviescreative/blob/master/public/images/kingfisher.jpg?raw=true"}}
           />
         </div>
 
