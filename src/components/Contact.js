@@ -26,7 +26,7 @@ function Contact() {
             <h3>Commissioning Work</h3>
             <p>
               If you are interested in commissioning Original Art:
-              please inquire through the degreeart.com website (see <a href="#buy">'Buy'</a> for further details).
+              please inquire through the degreeart.com website. <a href="#buy">'Further details'</a>
             </p>
             <h3>Follow me on Instagram</h3>
             <p>
