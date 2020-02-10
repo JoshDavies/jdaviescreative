@@ -32,29 +32,14 @@ Clone & open this repository locally.
 - React.js & JSX.
 
 ## Project Reflection
+
 ### TODO / ideas for development
-Navigation Bar
-- right align or change to a dropdown menu?
-
-- Mobile CSS layout Optimisation. I didn't use a CSS Framework because I wanted to learn pure CSS. Downside to this is that the site is not currently responsive
-for small screens.  Bootstrap would help with responsive layout.  
-
-- carousel gallery
-- click image to open lightbox (full-screen)
-- upload more artwork
-
-- very static - add more transition animations
-
-- create a button to switch between light and dark mode theme?
-
+- Mobile layout Optimisation including dropdown Navigation menu.
+- carousel gallery?
+- lightbox feature.
 - SEO Optimisation -  title tag, meta description, and URL  
 - host with a professional domain name / URL.  
-
-✅ smooth scrolling  
-✅ add navigation arrows.  
-✅ 3d box shadow effect on images.  
-
-- include a new section that loads articles I've written about my work process?
+- create a button to switch between light and dark mode theme?
 
 ### Why use a single-page website
 Single-page Websites are not suited to every situation but for a Portfolio; this web structure offers an intuitive experience.
@@ -78,6 +63,9 @@ ensure fast load times
 
 Using React.js helped break down the app into simpler components and multiple files.
 
+Additionally, focusing solely on pageviews & clicks as the only metric for successful viewer engagement can encourage clickbait and poor web design.
+Which in turn, can lead to shorter visitor engagement and reduce the returning audience.
+It is important to remember the average viewer and focus on holding their attention after that click & increase their total engagement time.
+
 ### Animation package
-fade-in animation from:
-https://www.npmjs.com/package/react-animate-on-scroll
+Text fade-in animation from: [react-animate-on-scroll](https://www.npmjs.com/package/react-animate-on-scroll)  
