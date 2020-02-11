@@ -1,6 +1,6 @@
 <h1 align="center">🎨 J Davies Creative</h1>
 
-A single-page web portfolio that showcases my hobbie as an artist. The focus of this project was to build an engaging front-end that offers an immersive user experience. And also to practice using react and responsive CSS design on a personal project.  
+A single-page web portfolio that showcases my hobbie as an artist. The focus of this project was to build an engaging front-end that offers an immersive user experience. And also to practice using React.js and responsive CSS design on a personal project.  
 [Visit live Webpage](https://joshdavies.github.io/jdaviescreative/)  
 
 ## Project Reflection
