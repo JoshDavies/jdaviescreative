@@ -15,6 +15,8 @@ Using React.js helped break down the app into simple components and multiple fil
 
 I used a package to add the text fade-in annimations. I concidered coding this myself but after research it felt like I would be copying too much code. for now, as there are already good packages available, I thought to save time rather than focusing on a minor additional feature.
 
+I allowed myself to spend longer developing the front-end than on previous projects. Adding subtle features which are not essential to functionality, such as smooth scrolling, box shaddows and navigation buttons. But, when combined, notably enhance the users experience.
+
 ### Why use a single-page website
 Single-page Websites are not suited for every situation but for a Portfolio; this web structure offers a seamless storytelling experience. Their simple navigation orders the presentation of infomation in an intuitive way and scrolling provides an immersive user journey without distractions or breaks.
   
