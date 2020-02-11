@@ -24,10 +24,10 @@ There are risks of longer loading times and fewer clicks to measure viewer engag
 
 ### Development Ideas
 This is a project I will likely continue to develop. Given more time, here is a list of features I would like to implement:  
-- Mobile layout Optimisation including dropdown Navigation menu.
+- Mobile layout optimisation, including a drop-down navigation menu.
 - carousel gallery?
 - lightbox feature.
-- SEO Optimisation - title tag, meta description, and URL  
+- SEO Optimisation - title tag, meta description, and URL.  
 - host with a professional domain name / URL.  
 - create a button to switch between light and dark mode theme?
 
