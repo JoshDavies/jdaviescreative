@@ -1,7 +1,7 @@
 <h1 align="center">🎨 J Davies Creative</h1>
 
 A single-page web portfolio that showcases my hobbie as an artist. The focus of this project was to build an engaging front-end that offers an immersive user experience. And also to practice using React.js and responsive CSS design on a personal project.  
-[Visit live Webpage](https://joshdavies.github.io/jdaviescreative/)  
+Deployed to GitHub pages: [Visit live Webpage](https://joshdavies.github.io/jdaviescreative/)  
 
 ## Project Reflection
 I enjoyed using my own artwork in a project over random stock photos. The project merges my passions, showcasing the creative and problem-sovling sides of me. It also pays homage to where I first disscovered a passion for coding; customising my orriginal *Squarespace* portfolio, which this project will replace, giving me full creative controll.  
